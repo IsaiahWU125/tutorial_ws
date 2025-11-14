@@ -1,0 +1,8 @@
+prefix=/home/isaiah/tutorial_ws/install
+
+Name: ab_add
+Description: Description of ab_add
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
