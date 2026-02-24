@@ -1,1 +1,2 @@
 I like to study comp2113.
+I made a change in test.txt in BugFix
